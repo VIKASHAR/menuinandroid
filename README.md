@@ -99,8 +99,9 @@ In menu/option.xml
 </menu>
 ```
 ## OUTPUT
-![Screenshot_20240502_080559](https://github.com/Harsayazheni/menuinandroid/assets/118708467/db207fb9-e5b8-4fcb-a802-9288085ac334)
-![Screenshot_20240502_080656](https://github.com/Harsayazheni/menuinandroid/assets/118708467/51e07fa8-4846-4f52-a211-83ce20326a77)
+
+![Screenshot 2024-05-07 180309](https://github.com/VIKASHAR/menuinandroid/assets/119405655/d9786b90-57e2-49e0-b460-62955f2b794f)
+![Screenshot 2024-05-07 180254](https://github.com/VIKASHAR/menuinandroid/assets/119405655/86d90854-d934-4812-ac45-a3055f3b57bb)
 
 
 
